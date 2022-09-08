@@ -1,7 +1,7 @@
 function test() {
-  for (let i = 2; i <= 50; i++) {
-    if (i % 2 == 0) {
-      console.log([i]);
+  for (let j = 2; j <= 50; j++) {
+    if (j % 2 == 0) {
+      console.log([j]);
     }
   }
 }
